@@ -1,0 +1,27 @@
+
+Fib1 computes F2 in 198355
+Fib1 computes F5 in 11276
+Fib1 computes F7 in 13160
+Fib1 computes F12 in 76008
+Fib1 computes F14 in 137291
+Fib1 computes F17 in 286980
+Fib1 computes F20 in 205097
+Fib1 computes F25 in 1826322
+
+Fib2 computes F2 in 302939
+Fib2 computes F5 in 554
+Fib2 computes F7 in 474
+Fib2 computes F12 in 590
+Fib2 computes F14 in 526
+Fib2 computes F17 in 447
+Fib2 computes F20 in 491
+Fib2 computes F25 in 483
+
+Fib3 computes F2 in 236381
+Fib3 computes F5 in 1322
+Fib3 computes F7 in 996
+Fib3 computes F12 in 20787
+Fib3 computes F14 in 2148
+Fib3 computes F17 in 2295
+Fib3 computes F20 in 1792
+Fib3 computes F25 in 1931
